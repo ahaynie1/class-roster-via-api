@@ -1,5 +1,4 @@
-![placeholder screenshot of app](
-class-roster-via-api/screenshot.png)
+![placeholder screenshot of app](https://github.com/ahaynie1/class-roster-via-api/)
 
 # Class Roster via our API data
 
