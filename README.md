@@ -1,4 +1,5 @@
-![placeholder screenshot of app](URL TO OUR IMAGE)
+![placeholder screenshot of app](
+class-roster-via-api/screenshot.png)
 
 # Class Roster via our API data
 
