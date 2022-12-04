@@ -20,9 +20,8 @@ API endpoint for the _Collection_ for Student submitted data.
 
 ## Sources
 
-List your sources here
-
 [Font Share](https://www.fontshare.com/)
+[Card Layout](https://codepen.io/mariacheline/pen/BKGNLz)
 
 ## Why Does This Exist?
 
