@@ -30,6 +30,7 @@ body {
     width: 100%;
     margin: 0 auto;
     padding: 10vh 5vh;
+    /* gap: 5rem; */
     display: flex;
     flex-wrap: wrap;
 }
@@ -38,19 +39,10 @@ body {
     background-color: #ecf0f1;
 } */
 
-/* img {
-    width: 28%;
-    border: 1.5px solid #ccc;
-    padding: 10px;
-    margin: 2% 1.5%;
-    flex-grow: 1;
-    background-color: #ecf0f1;
-} */
 
 figure {
     width: 28%;
     height: 100%;
-    border: 1.5px solid #ccc;
     padding: 10px;
     margin: 2% 1.5%;
     flex-grow: 1;
@@ -61,9 +53,10 @@ figure p {
     font-size: 2em;
 }
 
-img {
-    max-width: 100%;
+figure img {
+    width: 100%;
     margin: 0 auto;
+    object-fit: cover;
 }
 
 img:hover {
@@ -76,4 +69,5 @@ img:hover {
 
 figcaption {
     padding: 10px;
+    font-family: 'Bonny-Regular';
 }

@@ -1,4 +1,4 @@
-![placeholder screenshot of app](https://raw.githubusercontent.com/ahaynie1/class-roster-via-api/main/screenshot.png)
+![placeholder screenshot of site](https://raw.githubusercontent.com/ahaynie1/class-roster-via-api/main/screenshot.png)
 
 # Class Roster via our API data
 
@@ -20,8 +20,9 @@ API endpoint for the _Collection_ for Student submitted data.
 
 ## Sources
 
-[Font Share](https://www.fontshare.com/)
+[Font Share](https://www.fontshare.com/fonts/bonny)
 [Card Layout](https://codepen.io/mariacheline/pen/BKGNLz)
+[Favicons] (https://favicon.io/)
 
 ## Why Does This Exist?
 
