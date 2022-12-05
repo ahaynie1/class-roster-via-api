@@ -68,5 +68,6 @@ img:hover {
 
 figcaption {
     padding: 10px;
-    font-family: 'Bonny-Regular';
+    font-family: 'Bonny-Bold';
+    font-size: 24px;
 }

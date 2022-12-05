@@ -22,7 +22,7 @@ API endpoint for the _Collection_ for Student submitted data.
 
 [Font Share](https://www.fontshare.com/fonts/bonny)
 [Card Layout](https://codepen.io/mariacheline/pen/BKGNLz)
-[Favicons] (https://favicon.io/)
+[Favicons](https://favicon.io/)
 
 ## Why Does This Exist?
 
